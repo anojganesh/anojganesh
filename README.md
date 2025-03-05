@@ -20,7 +20,8 @@
 
 ## 🚀 Recent Projects
 
-### 1. [EcoCatch: Useful tool to locate fishing sites within Ontario, and easily keep up to date with fishing regulations in your area. Created for Terrahacks 2024 Hackathon.
+### 1. [EcoCatch]
+Useful Application that locates fishing sites within Ontario, and allows users to easily keep up to date with fishing regulations in their area. Created for Terrahacks 2024 Hackathon.
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,7 +32,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 
 
-### 2. [OpenCV Face Blurring Tool](https://github.com/aishwinj04/Face-Censoring-in-Video)
+### 2. [OpenCV Face Blurring Tool](https://github.com/anojganesh/OpenCV-Face-Blurring)
 Python program that uses frontal face detection for video and blurs those regions out in the result. 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
