@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Anoj
 - 👨‍💻 CS Student at Toronto Metropolitan University <br>
 
-## 🛠 Core Languages
+## 🛠 Core Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
