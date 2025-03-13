@@ -41,7 +41,7 @@ Python program that uses frontal face detection for video and blurs those region
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 3. [Club Finance Manager](https://github.com/anojganesh/Club-Finance-Manager?tab=readme-ov-file)
-A web app that allows clubs to track and log their financials. 
+A web app that allows clubs to track, log, and analyze their financials. 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
